@@ -23,7 +23,7 @@
             "env": {},
             "envFile": "${workspaceRoot}/.env",
             "cwd": "/home/radar/code/tvm/tests/python/contrib/test_ethosn/test_conv2d",    //pytest要运行的脚本路径
-            //"preLaunchTask": "enable_ptrace_scope"
+            "preLaunchTask": "enable_ptrace_scope"
         }
     ],
 }
