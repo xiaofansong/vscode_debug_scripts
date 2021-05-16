@@ -1,6 +1,6 @@
 # vscode_debug_scripts
 VSCode Debug Python(Pytest) code + CPP code launch.json
-<code json>
+```json
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
@@ -31,4 +31,4 @@ VSCode Debug Python(Pytest) code + CPP code launch.json
     ],
 }
   
-</code>
+```
